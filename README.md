@@ -27,6 +27,7 @@ __目录__
 12. [事件分发简介](Basicknowledge/12事件分发简介.md)
 13. [Java中的局部变量与成员变量存储位置](Basicknowledge/13Java中的基本数据类型一定存储在栈中吗.md)
 14. [单例模式](Basicknowledge/14单例模式.md)
+15. [HashMap的工作原理](Basicknowledge/15HashMap的工作原理.md)
 
 ****
 
