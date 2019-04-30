@@ -29,6 +29,7 @@ __目录__
 14. [单例模式](Basicknowledge/14单例模式.md)
 15. [HashMap的工作原理](Basicknowledge/15HashMap的工作原理.md)
 16. [HashMap的详细实现](Basicknowledge/16HashMap的详细实现.md)
+17. [ArrayList和LinkedList的区别](Basicknowledge/17ArrayList和LinkedList的区别.md)
 
 ****
 
