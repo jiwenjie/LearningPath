@@ -30,6 +30,7 @@ __目录__
 15. [HashMap的工作原理](Basicknowledge/15HashMap的工作原理.md)
 16. [HashMap的详细实现](Basicknowledge/16HashMap的详细实现.md)
 17. [ArrayList和LinkedList的区别](Basicknowledge/17ArrayList和LinkedList的区别.md)
+18. [谈谈对「简单工厂模式」和「工厂方法模式」的理解](Basicknowledge/设计模式/谈谈对「简单工厂模式」和「工厂方法模式」的理解.md)
 
 ****
 
