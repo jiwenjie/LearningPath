@@ -13,45 +13,78 @@
 
 __目录__
 
-<<<<<<< HEAD
 1. [对Android中动画的理解](Basicknowledge/Android/Android动画的理解.md)
-2. [HashMap和Hashtable的区别](Basicknowledge/Java/HashMap和Hashtable的区别.md)
-3. [Android中的位运算](Basicknowledge/Android/Android中的位运算.md)
-4. [JAVA中静态块、静态变量加载顺序详解](Basicknowledge/Java/JAVA中静态块、静态变量加载顺序详解.md)
-5. [Java中实现多线程的三种方式](Basicknowledge/Java/Java中实现多线程的三种方式.md)
-6. [RecyclerView中onScrolled和onScrollStateChanged的区别](Basicknowledge/Android/RecyclerView中onScrolled和onScrollStateChanged的区别.md)
-7. [String，StringBuilder，StringBuffer的区别](Basicknowledge/Java/String，StringBuilder，StringBuffer的区别.md)
-8. [抽象类和接口的区别](Basicknowledge/Java/抽象类和接口的区别.md)
-9. [封装、继承和多态](Basicknowledge/Java/封装、继承和多态.md)
-10. [如何解决ScrollerView嵌套ListView的冲突](Basicknowledge/Android/如何解决ScrollerView嵌套ListView的冲突.md)
-11. [设计模式六大基本原则](Basicknowledge/设计模式/设计模式六大基本原则.md)
-12. [事件分发简介](Basicknowledge/Android/事件分发简介.md)
-13. [Java中的局部变量与成员变量存储位置](Basicknowledge/Java/Java中的基本数据类型一定存储在栈中吗.md)
-14. [单例模式](Basicknowledge/设计模式/单例模式.md)
-15. [HashMap的工作原理](Basicknowledge/Java/HashMap的工作原理.md)
-16. [HashMap的详细实现](Basicknowledge/Java/HashMap的详细实现.md)
-17. [ArrayList和LinkedList的区别](Basicknowledge/Java/ArrayList和LinkedList的区别.md)
-18. [几种排序算法的区别](Basicknowledge/算法/简述几种排序算法的区别.md)
-=======
-1. [对Android中动画的理解](Basicknowledge/1对Android动画的理解.md)
-2. [HashMap和Hashtable的区别](Basicknowledge/2HashMap和Hashtable的区别.md)
-3. [Android中的位运算](Basicknowledge/3Android中的位运算.md)
-4. [JAVA中静态块、静态变量加载顺序详解](Basicknowledge/4JAVA中静态块、静态变量加载顺序详解.md)
-5. [Java中实现多线程的三种方式](Basicknowledge/5Java中实现多线程的三种方式.md)
-6. [RecyclerView中onScrolled和onScrollStateChanged的区别](Basicknowledge/6RecyclerView中onScrolled和onScrollStateChanged的区别.md)
-7. [String，StringBuilder，StringBuffer的区别](Basicknowledge/7String，StringBuilder，StringBuffer的区别.md)
-8. [抽象类和接口的区别](Basicknowledge/8抽象类和接口的区别.md)
-9. [封装、继承和多态](Basicknowledge/9封装、继承和多态.md)
-10. [如何解决ScrollerView嵌套ListView的冲突](Basicknowledge/10如何解决ScrollerView嵌套ListView的冲突.md)
-11. [设计模式六大基本原则](Basicknowledge/11设计模式六大基本原则.md)
-12. [事件分发简介](Basicknowledge/12事件分发简介.md)
-13. [Java中的局部变量与成员变量存储位置](Basicknowledge/13Java中的基本数据类型一定存储在栈中吗.md)
-14. [单例模式](Basicknowledge/14单例模式.md)
-15. [HashMap的工作原理](Basicknowledge/15HashMap的工作原理.md)
-16. [HashMap的详细实现](Basicknowledge/16HashMap的详细实现.md)
-17. [ArrayList和LinkedList的区别](Basicknowledge/17ArrayList和LinkedList的区别.md)
-18. [谈谈对「简单工厂模式」和「工厂方法模式」的理解](Basicknowledge/设计模式/谈谈对「简单工厂模式」和「工厂方法模式」的理解.md)
->>>>>>> b2d8820ae6302b71f2223d29021ce6860620f0fe
 
+2. [HashMap和Hashtable的区别](Basicknowledge/Java/HashMap和Hashtable的区别.md)
+
+3. [Android中的位运算](Basicknowledge/Android/Android中的位运算.md)
+
+4. [JAVA中静态块、静态变量加载顺序详解](Basicknowledge/Java/JAVA中静态块、静态变量加载顺序详解.md)
+
+5. [Java中实现多线程的三种方式](Basicknowledge/Java/Java中实现多线程的三种方式.md)
+
+6. [RecyclerView中onScrolled和onScrollStateChanged的区别](Basicknowledge/Android/RecyclerView中onScrolled和onScrollStateChanged的区别.md)
+
+7. [String，StringBuilder，StringBuffer的区别](Basicknowledge/Java/String，StringBuilder，StringBuffer的区别.md)
+
+8. [抽象类和接口的区别](Basicknowledge/Java/抽象类和接口的区别.md)
+
+9. [封装、继承和多态](Basicknowledge/Java/封装、继承和多态.md)
+
+10. [如何解决ScrollerView嵌套ListView的冲突](Basicknowledge/Android/如何解决ScrollerView嵌套ListView的冲突.md)
+
+11. [设计模式六大基本原则](Basicknowledge/设计模式/设计模式六大基本原则.md)
+
+12. [事件分发简介](Basicknowledge/Android/事件分发简介.md)
+
+13. [Java中的局部变量与成员变量存储位置](Basicknowledge/Java/Java中的基本数据类型一定存储在栈中吗.md)
+
+14. [单例模式](Basicknowledge/设计模式/单例模式.md)
+
+15. [HashMap的工作原理](Basicknowledge/Java/HashMap的工作原理.md)
+
+16. [HashMap的详细实现](Basicknowledge/Java/HashMap的详细实现.md)
+
+17. [ArrayList和LinkedList的区别](Basicknowledge/Java/ArrayList和LinkedList的区别.md)
+
+18. ###### [几种排序算法的区别](Basicknowledge/算法/简述几种排序算法的区别.md)
+
+19. [对Android中动画的理解](Basicknowledge/Android/Android动画的理解.md)
+
+20. [HashMap和Hashtable的区别](Basicknowledge/Java/HashMap和Hashtable的区别.md)
+
+21. [Android中的位运算](Basicknowledge/Android/Android中的位运算.md)
+
+22. [JAVA中静态块、静态变量加载顺序详解](Basicknowledge/Java/JAVA中静态块、静态变量加载顺序详解.md)
+
+23. [Java中实现多线程的三种方式](Basicknowledge/Java/Java中实现多线程的三种方式.md)
+
+24. [RecyclerView中onScrolled和onScrollStateChanged的区别](Basicknowledge/Android/RecyclerView中onScrolled和onScrollStateChanged的区别.md)
+
+25. [String，StringBuilder，StringBuffer的区别](Basicknowledge/Java/String，StringBuilder，StringBuffer的区别.md)
+
+26. [抽象类和接口的区别](Basicknowledge/Java/抽象类和接口的区别.md)
+
+27. [封装、继承和多态](Basicknowledge/Java/封装、继承和多态.md)
+
+28. [如何解决ScrollerView嵌套ListView的冲突](Basicknowledge/Android/如何解决ScrollerView嵌套ListView的冲突.md)
+
+29. [设计模式六大基本原则](Basicknowledge/设计模式/设计模式六大基本原则.md)
+
+30. [事件分发简介](Basicknowledge/Android/事件分发简介.md)
+
+31. [Java中的局部变量与成员变量存储位置](Basicknowledge/Java/Java中的基本数据类型一定存储在栈中吗.md)
+
+32. [单例模式](Basicknowledge/设计模式/单例模式.md)
+
+33. [HashMap的工作原理](Basicknowledge/Java/HashMap的工作原理.md)
+
+34. [HashMap的详细实现](Basicknowledge/Java/HashMap的详细实现.md)
+
+35. [ArrayList和LinkedList的区别](Basicknowledge/Java/ArrayList和LinkedList的区别.md)
+
+36. [谈谈对「简单工厂模式」和「工厂方法模式」的理解](Basicknowledge/设计模式/谈谈对「简单工厂模式」和「工厂方法模式」的理解.md)
+
+37. [n个台阶，每次都可以走一步，走两步，或走三步，走到顶部一共有多少种走法](Basicknowledge/算法/走台阶算法.md)
 ****
 
