@@ -96,5 +96,7 @@ __目录__
 41. [Android线程间通信有几种方法](Basicknowledge/Android/Android线程间通信有几种方法.md)
 
 42. [谈谈数组与链表的区别](Basicknowledge/Java/谈谈数组与链表的区别.md)
+
+43. [谈谈对抽象工厂设计模式的理解](Basicknowledge/设计模式/谈谈对抽象工厂设计模式的理解.md)
 ****
 
