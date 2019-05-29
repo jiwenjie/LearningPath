@@ -90,5 +90,11 @@ __目录__
 38. [谈谈JDK8开始的双冒号用法及详解](Basicknowledge/Java/谈谈JDK8开始的双冒号用法及详解.md)
 
 39. [抽取扑克牌判断是否连续](Basicknowledge/算法/扑克牌算法.md)
+
+40. [谈一谈对Android中Context理解](Basicknowledge/Android/对Android中Context理解.md)
+
+41. [Android线程间通信有几种方法](Basicknowledge/Android/Android线程间通信有几种方法.md)
+
+42. [谈谈数组与链表的区别](Basicknowledge/Java/谈谈数组与链表的区别.md)
 ****
 
