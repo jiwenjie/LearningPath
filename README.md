@@ -102,5 +102,17 @@ __目录__
 44. [谈谈你对重入锁的理解](Basicknowledge/其他/谈谈你对重入锁的理解.md)
 
 45. [守护线程与阻塞线程的四种情况](Basicknowledge/Java/守护线程与阻塞线程的四种情况.md)
+
+46. [谈谈RecyclerView的优化](Basicknowledge/Android/谈谈 RecyclerView 的性能优化.md)
+
+47. [Java中的四种引用](Basicknowledge/Java/JAVA的四种引用及应用场景.md)
+
+48. [谈谈线程安全](Basicknowledge/Java/什么是线程安全？保障线程安全有哪些手段.md)
+
+49. [简述类加载过程](Basicknowledge/Java/简述一下类加载过程.md)
+
+50. [谈谈Hash码的理解](Basicknowledge/Java/谈谈你对Java中Hash码的理解.md)
+
+51. 
 ****
 
